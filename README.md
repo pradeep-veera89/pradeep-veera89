@@ -38,10 +38,18 @@
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-PradeepVeera-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
-
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### :hammer_and_wrench: Frontend Languages :
+---
+
+### :hammer_and_wrench: Backend Languages :
+---
+
+### :hammer_and_wrench: Databases :
+---
+
+### :hammer_and_wrench: Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" alt="Composer " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" title="Go" alt="Go " width="40" height="40"/>&nbsp;
