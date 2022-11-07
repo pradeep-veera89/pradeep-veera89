@@ -58,6 +58,8 @@
 ---
 
 ### :fire: My Stats :
+<div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pradeep-veera89&hide_border=true&border_radius=5)](https://git.io/streak-stats)
+</div>    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradeep-veera89)](https://github.com/anuraghazra/github-readme-stats)
 
