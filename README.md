@@ -82,9 +82,9 @@
 
 ### :hammer_and_wrench: Frameworks :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/smyfony-original.svg" title="Symfony" alt="Symfony " width="40" height="40"/>&nbsp;    
-  <img src="https://github.com/devicons/devicon/blob/master/icons/shopware/shopware-plain.svg" title="Shopware" alt="Shopware" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpres/wordpress-plain.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/symfony/symfony-original.svg" title="Symfony" alt="Symfony " width="40" height="40"/>&nbsp;    
+  <img src="https://github.com/devicons/devicon/blob/master/icons/shopware/shopware-original.svg" title="Shopware" alt="Shopware" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpres/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
