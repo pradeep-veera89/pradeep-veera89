@@ -12,12 +12,14 @@
    <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
+    <br>
+    
+<img src="https://komarev.com/ghpvc/?username=pradeep-veera89&style=flat-square&color=blue" alt=""/>
+
 </div>
 
 
-<img src="https://komarev.com/ghpvc/?username=pradeep-veera89&style=flat-square&color=blue" alt=""/>
-
-<h1>
+<h1 align="center">
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
